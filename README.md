@@ -1,7 +1,7 @@
 # A simple Time Focus app(React-Native made!)
 
 Hastly, I used Snack to develop this for my early usage.
- Check out some  👇
+ Check out some i 👇
 
 
 If you're having problems, you can tweet to them [@expo](https://twitter.com/expo) or ask in their [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
