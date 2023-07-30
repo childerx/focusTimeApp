@@ -1,4 +1,4 @@
-# A simple Time Focus app(React- made!)
+# A simple Time Focus app(React-N made!)
 
 Hastly, I used Snack to develop this for my early usage.
  Check out some interfaces 👇
