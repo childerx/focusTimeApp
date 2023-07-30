@@ -1,4 +1,4 @@
-# A simple Time Focus app(React-Na made!)
+# A simple Time Focus app(React-Nat made!)
 
 Hastly, I used Snack to develop this for my early usage.
  Check out some interfaces 👇
