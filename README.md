@@ -1,4 +1,4 @@
-# A simpl Time Focus app(React-Native made!)
+# A simple Time Focus app(React-Native made!)
 
 Hastly, I used Snack to develop this for my early usage.
  Check out some interfaces 👇
