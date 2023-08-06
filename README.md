@@ -6,4 +6,4 @@ Hastly, I used Snack to develop this for my early usage.
 
 If you're having problems, you can tweet to them [@expo](https://twitter.com/expo) or ask in their [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-Snack is Open Sour. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Snack is Open Sourc. You can find the code on the [GitHub repo](https://github.com/expo/snack).
